@@ -16,6 +16,6 @@
 
 /* background */
 body {
-    background-image: url('http://localhost/prueba/static/img/background.jpg');
+    background-image: url('static/img/background.jpg');
     background-size: cover;
 }
